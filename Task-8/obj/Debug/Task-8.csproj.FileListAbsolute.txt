@@ -1,0 +1,8 @@
+D:\BasicCSharpAssignment\Task-8\Task-8\obj\Debug\Task-8.csproj.AssemblyReference.cache
+D:\BasicCSharpAssignment\Task-8\Task-8\obj\Debug\Task-8.csproj.SuggestedBindingRedirects.cache
+D:\BasicCSharpAssignment\Task-8\Task-8\obj\Debug\Task-8.csproj.CoreCompileInputs.cache
+D:\BasicCSharpAssignment\Task-8\Task-8\bin\Debug\Task-8.exe.config
+D:\BasicCSharpAssignment\Task-8\Task-8\bin\Debug\Task-8.exe
+D:\BasicCSharpAssignment\Task-8\Task-8\bin\Debug\Task-8.pdb
+D:\BasicCSharpAssignment\Task-8\Task-8\obj\Debug\Task-8.exe
+D:\BasicCSharpAssignment\Task-8\Task-8\obj\Debug\Task-8.pdb
